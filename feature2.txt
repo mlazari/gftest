@@ -1,0 +1,2 @@
+git flow feature finish merges the changes from feature branch into develop locally, but does not push develop branch.
+It also closes the pull request for the feature and removes the feature branch both locally and on origin.
